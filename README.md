@@ -8,6 +8,10 @@ This example is to show different parts of the Git repository and various commna
 
 ## Purpose
 
+This example is to show different parts of the Git repository and various commnands using a web project.
+
 ## How to Contribute
 
 ## Deployment
+
+This example is to show different parts of the Git repository and various commnands using a web project.
