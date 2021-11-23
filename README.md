@@ -15,3 +15,6 @@ This example is to show different parts of the Git repository and various commna
 ## Deployment
 
 This example is to show different parts of the Git repository and various commnands using a web project.
+
+### Copyright
+2014 Git.Training
