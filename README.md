@@ -12,6 +12,8 @@ This example is to show different parts of the Git repository and various commna
 
 ## How to Contribute
 
+Please for this repository. yada yada yada
+
 ## Deployment
 
 This example is to show different parts of the Git repository and various commnands using a web project.
