@@ -9,8 +9,9 @@
 
     Thanks to Albus Percival Wulfric Brian Dumbledore. 
     Please leave a review.
-    
+
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+    Git, GitKraken
