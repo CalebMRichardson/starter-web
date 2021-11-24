@@ -8,7 +8,8 @@
 # THANKS
 
     Thanks to Albus Percival Wulfric Brian Dumbledore. 
-
+    Please leave a review.
+    
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
