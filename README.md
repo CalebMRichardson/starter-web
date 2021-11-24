@@ -19,4 +19,4 @@ Please for this repository. yada yada yada
 This example is to show different parts of the Git repository and various commnands using a web project.
 
 ### Copyright
-2014 Git.Training
+2014 Git Training. All Rights Reserved.
